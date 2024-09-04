@@ -1,1 +1,7 @@
 Home Page![crime](https://github.com/user-attachments/assets/5407eb1c-ccd8-47e9-8cd9-93e1ccffeda4)
+Admin page![Screenshot (97)](https://github.com/user-attachments/assets/58ee6a0d-3467-49c7-8e83-4e627ac937cd)
+Missing peoples entries![Screenshot (106)](https://github.com/user-attachments/assets/8787111c-c135-410e-ba2b-759f71018b56)
+Crime Areas Entries![Screenshot (109)](https://github.com/user-attachments/assets/638aa4d1-a6af-4445-98dd-fd9c10cf1efe)
+Emergency Numbers![Screenshot (110)](https://github.com/user-attachments/assets/899febe9-6cbe-4c01-982f-7e2f1a05916f)
+User Page![Screenshot (99)](https://github.com/user-attachments/assets/8ec2239b-2cf1-4f73-b9a3-7cfb38ab394a)
+Crime Report![Screenshot (103)](https://github.com/user-attachments/assets/730a51bf-22ee-48bb-bd87-3d34086fb671)
